@@ -211,3 +211,8 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+Assets/ExampleAssets/Models/XRControllerLeft.fbx
+Assets/ExampleAssets/Models/XRControllerRight.fbx
+Assets/ExampleAssets/Textures/Grid_Light_512x512.png
+Assets/ExampleAssets/Tutorial/Images/1-welcome-screen-image.png
+Assets/ExampleAssets/Tutorial/Images/project-header-vr.png
