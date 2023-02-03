@@ -35,7 +35,12 @@ ci: changes to our CI config files and scripts (Travis, Circle)
 
 - add ! after the type to indicate that it is a breaking change
 
-- add the scope in brackets to indicate the scope. (eg. the component or file name). if it affects everything, it should be (*)
+- add the scope in brackets to indicate the scope. (eg. the component or file name). if it affects everything, it should be (\*)
+
+## System Requirements
+
+- Unity 2021.3.13f1 with Android Build Support
+- Oculus Integration v47
 
 
 ## Getting started
